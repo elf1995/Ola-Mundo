@@ -1,2 +1,2 @@
 # Ola-Mundo
-Programa que exibe na tela "Olá Mundo"
+Programa em Java que exibe na tela "Olá Mundo!"
