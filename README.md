@@ -2,7 +2,7 @@
 Programa em Java que exibe na tela "Olá Mundo!"
 
 1 - Para compilar rode no terminal "javac OlaMundo.java" (Sem as aspas) <br />
-2 - Para executar rode "java OlaMundo.java" (Sem as aspas)
+2 - Para executar rode "java OlaMundo" (Sem as aspas)
 
 É necessario o JDK para realizar essas ações. Você pode instalar rodando "sudo apt install default-jdk" no terminal ou baixar no site da Oracle nesse link:
 https://www.oracle.com/java/technologies/javase-jdk11-downloads.html
