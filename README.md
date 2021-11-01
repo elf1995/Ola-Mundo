@@ -1,5 +1,5 @@
 # Ola-Mundo
-Programa em Java que exibe na tela "Olá Mundo!"
+Programa em Java que exibe no terminal "Olá Mundo!"
 
 1 - Para compilar rode no terminal "javac OlaMundo.java" (Sem as aspas) <br />
 2 - Para executar rode "java OlaMundo" (Sem as aspas)
